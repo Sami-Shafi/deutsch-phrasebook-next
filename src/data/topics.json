@@ -1,0 +1,1477 @@
+[
+  {
+    "id": 1,
+    "icon": "ti-user",
+    "name": "Personal Info",
+    "sub": "Sich vorstellen — Introducing yourself",
+    "groups": [
+      {
+        "title": "Basic introductions",
+        "phrases": [
+          {
+            "de": "Wie heißen Sie? / Wie heißt du?",
+            "en": "What is your name? (formal / informal)"
+          },
+          {
+            "de": "Ich heiße Sami.",
+            "en": "My name is Sami."
+          },
+          {
+            "de": "Ich bin Sami.",
+            "en": "I am Sami."
+          },
+          {
+            "de": "Wie alt sind Sie? / Wie alt bist du?",
+            "en": "How old are you? (formal / informal)"
+          },
+          {
+            "de": "Ich bin 25 Jahre alt.",
+            "en": "I am 25 years old."
+          },
+          {
+            "de": "Woher kommen Sie? / Woher kommst du?",
+            "en": "Where are you from?"
+          },
+          {
+            "de": "Ich komme aus Bangladesch.",
+            "en": "I come from Bangladesh."
+          },
+          {
+            "de": "Ich bin aus Khulna.",
+            "en": "I am from Khulna."
+          }
+        ]
+      },
+      {
+        "title": "Where you live",
+        "phrases": [
+          {
+            "de": "Wo wohnen Sie? / Wo wohnst du?",
+            "en": "Where do you live?"
+          },
+          {
+            "de": "Ich wohne in Dhaka.",
+            "en": "I live in Dhaka."
+          },
+          {
+            "de": "Meine Adresse ist ...",
+            "en": "My address is ..."
+          }
+        ]
+      },
+      {
+        "title": "Contact & numbers",
+        "phrases": [
+          {
+            "de": "Wie ist Ihre Telefonnummer?",
+            "en": "What is your phone number?"
+          },
+          {
+            "de": "Meine Nummer ist ...",
+            "en": "My number is ..."
+          },
+          {
+            "de": "Wie ist Ihre E-Mail-Adresse?",
+            "en": "What is your email address?"
+          },
+          {
+            "de": "Können Sie das buchstabieren?",
+            "en": "Can you spell that?"
+          }
+        ]
+      },
+      {
+        "title": "Nationality & language",
+        "phrases": [
+          {
+            "de": "Ich bin Bangladescher / Bangladescherin.",
+            "en": "I am Bangladeshi (m/f)."
+          },
+          {
+            "de": "Welche Sprachen sprechen Sie?",
+            "en": "What languages do you speak?"
+          },
+          {
+            "de": "Ich spreche Bengalisch und Englisch.",
+            "en": "I speak Bengali and English."
+          },
+          {
+            "de": "Ich lerne Deutsch.",
+            "en": "I am learning German."
+          },
+          {
+            "de": "Ich spreche ein bisschen Deutsch.",
+            "en": "I speak a little German."
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> অপরিচিত, শিক্ষক বা বড়দের সাথে <em>Sie</em> (formal) ব্যবহার করুন। বন্ধু ও সহপাঠীদের সাথে <em>du</em> (informal) ব্যবহার করুন। Goethe A1 পরীক্ষায় উভয়ই আসতে পারে।",
+    "tipEN": "<strong>Tip:</strong> Use <em>Sie</em> (formal) with strangers, teachers, and older people. Use <em>du</em> (informal) with friends and classmates. In the Goethe A1 exam, both may appear."
+  },
+  {
+    "id": 2,
+    "icon": "ti-users",
+    "name": "Family",
+    "sub": "Familie — Talking about your family",
+    "groups": [
+      {
+        "title": "Family members",
+        "phrases": [
+          {
+            "de": "der Vater / die Mutter",
+            "en": "father / mother"
+          },
+          {
+            "de": "der Bruder / die Schwester",
+            "en": "brother / sister"
+          },
+          {
+            "de": "der Sohn / die Tochter",
+            "en": "son / daughter"
+          },
+          {
+            "de": "der Mann / die Frau",
+            "en": "husband / wife"
+          },
+          {
+            "de": "der Großvater / die Großmutter",
+            "en": "grandfather / grandmother"
+          },
+          {
+            "de": "der Onkel / die Tante",
+            "en": "uncle / aunt"
+          },
+          {
+            "de": "das Kind / die Kinder",
+            "en": "child / children"
+          }
+        ]
+      },
+      {
+        "title": "Talking about family",
+        "phrases": [
+          {
+            "de": "Haben Sie Geschwister?",
+            "en": "Do you have siblings?"
+          },
+          {
+            "de": "Ich habe einen Bruder und eine Schwester.",
+            "en": "I have one brother and one sister."
+          },
+          {
+            "de": "Ich bin Einzelkind.",
+            "en": "I am an only child."
+          },
+          {
+            "de": "Wie viele Kinder haben Sie?",
+            "en": "How many children do you have?"
+          },
+          {
+            "de": "Ich habe zwei Kinder.",
+            "en": "I have two children."
+          },
+          {
+            "de": "Sind Sie verheiratet?",
+            "en": "Are you married?"
+          },
+          {
+            "de": "Ich bin verheiratet / ledig / geschieden.",
+            "en": "I am married / single / divorced."
+          },
+          {
+            "de": "Meine Familie wohnt in Khulna.",
+            "en": "My family lives in Khulna."
+          }
+        ]
+      },
+      {
+        "title": "Describing family",
+        "phrases": [
+          {
+            "de": "Mein Vater ist 55 Jahre alt.",
+            "en": "My father is 55 years old."
+          },
+          {
+            "de": "Meine Mutter arbeitet als Lehrerin.",
+            "en": "My mother works as a teacher."
+          },
+          {
+            "de": "Mein Bruder studiert in Dhaka.",
+            "en": "My brother studies in Dhaka."
+          },
+          {
+            "de": "Meine Schwester ist nett und freundlich.",
+            "en": "My sister is nice and friendly."
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> জার্মানে বিশেষ্যের লিঙ্গ আছে: <em>der</em> (পুং), <em>die</em> (স্ত্রী), <em>das</em> (ক্লীব)। সবসময় article সহ শব্দ মুখস্থ করুন!",
+    "tipEN": "<strong>Tip:</strong> In German, nouns have gender. Family members follow grammatical gender: <em>der</em> (m), <em>die</em> (f), <em>das</em> (neuter). Always learn the article with the noun!"
+  },
+  {
+    "id": 3,
+    "icon": "ti-clock",
+    "name": "Daily Activities",
+    "sub": "Alltag — Your daily routine",
+    "groups": [
+      {
+        "title": "Morning routine",
+        "phrases": [
+          {
+            "de": "Ich stehe um 7 Uhr auf.",
+            "en": "I get up at 7 o'clock."
+          },
+          {
+            "de": "Ich dusche mich.",
+            "en": "I take a shower."
+          },
+          {
+            "de": "Ich frühstücke.",
+            "en": "I have breakfast."
+          },
+          {
+            "de": "Ich ziehe mich an.",
+            "en": "I get dressed."
+          },
+          {
+            "de": "Ich gehe zur Arbeit / zur Schule.",
+            "en": "I go to work / to school."
+          }
+        ]
+      },
+      {
+        "title": "During the day",
+        "phrases": [
+          {
+            "de": "Ich arbeite von 9 bis 17 Uhr.",
+            "en": "I work from 9 to 5."
+          },
+          {
+            "de": "Ich mache eine Pause.",
+            "en": "I take a break."
+          },
+          {
+            "de": "Ich esse zu Mittag.",
+            "en": "I eat lunch."
+          },
+          {
+            "de": "Ich trinke Kaffee.",
+            "en": "I drink coffee."
+          },
+          {
+            "de": "Ich lese die Nachrichten.",
+            "en": "I read the news."
+          }
+        ]
+      },
+      {
+        "title": "Evening routine",
+        "phrases": [
+          {
+            "de": "Ich komme nach Hause.",
+            "en": "I come home."
+          },
+          {
+            "de": "Ich koche das Abendessen.",
+            "en": "I cook dinner."
+          },
+          {
+            "de": "Ich sehe fern.",
+            "en": "I watch TV."
+          },
+          {
+            "de": "Ich gehe schlafen.",
+            "en": "I go to sleep."
+          },
+          {
+            "de": "Ich schlafe um 23 Uhr.",
+            "en": "I sleep at 11 pm."
+          }
+        ]
+      },
+      {
+        "title": "Frequency words",
+        "phrases": [
+          {
+            "de": "immer / meistens / oft",
+            "en": "always / mostly / often"
+          },
+          {
+            "de": "manchmal / selten / nie",
+            "en": "sometimes / rarely / never"
+          },
+          {
+            "de": "jeden Tag / jede Woche",
+            "en": "every day / every week"
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> অনেক ক্রিয়া <em>বিচ্ছিন্নযোগ্য</em> (separable): <em>aufstehen</em> (ওঠা) → <em>Ich stehe auf.</em> Prefix বাক্যের শেষে চলে যায়!",
+    "tipEN": "<strong>Tip:</strong> Many daily activity verbs are <em>separable</em>: <em>aufstehen</em> (to get up) → <em>Ich stehe auf.</em> The prefix goes to the end of the sentence!"
+  },
+  {
+    "id": 4,
+    "icon": "ti-salad",
+    "name": "Food & Drinks",
+    "sub": "Essen und Trinken — At a café or restaurant",
+    "groups": [
+      {
+        "title": "Common foods",
+        "phrases": [
+          {
+            "de": "das Brot / das Brötchen",
+            "en": "bread / bread roll"
+          },
+          {
+            "de": "der Reis / die Nudeln",
+            "en": "rice / pasta"
+          },
+          {
+            "de": "das Fleisch / der Fisch",
+            "en": "meat / fish"
+          },
+          {
+            "de": "das Gemüse / das Obst",
+            "en": "vegetables / fruit"
+          },
+          {
+            "de": "der Käse / die Wurst",
+            "en": "cheese / sausage"
+          },
+          {
+            "de": "das Ei / die Eier",
+            "en": "egg / eggs"
+          }
+        ]
+      },
+      {
+        "title": "Common drinks",
+        "phrases": [
+          {
+            "de": "das Wasser / das Mineralwasser",
+            "en": "water / sparkling water"
+          },
+          {
+            "de": "der Kaffee / der Tee",
+            "en": "coffee / tea"
+          },
+          {
+            "de": "der Saft / die Milch",
+            "en": "juice / milk"
+          },
+          {
+            "de": "das Bier / der Wein",
+            "en": "beer / wine"
+          }
+        ]
+      },
+      {
+        "title": "In a restaurant",
+        "phrases": [
+          {
+            "de": "Einen Tisch für zwei Personen, bitte.",
+            "en": "A table for two, please."
+          },
+          {
+            "de": "Die Speisekarte, bitte.",
+            "en": "The menu, please."
+          },
+          {
+            "de": "Was empfehlen Sie?",
+            "en": "What do you recommend?"
+          },
+          {
+            "de": "Ich möchte ... bestellen.",
+            "en": "I would like to order ..."
+          },
+          {
+            "de": "Ich nehme die Suppe.",
+            "en": "I'll have the soup."
+          },
+          {
+            "de": "Ich bin vegetarisch.",
+            "en": "I am vegetarian."
+          },
+          {
+            "de": "Das schmeckt sehr gut!",
+            "en": "That tastes very good!"
+          },
+          {
+            "de": "Die Rechnung, bitte.",
+            "en": "The bill, please."
+          }
+        ]
+      },
+      {
+        "title": "Likes & dislikes",
+        "phrases": [
+          {
+            "de": "Ich esse gern Reis.",
+            "en": "I like eating rice."
+          },
+          {
+            "de": "Ich trinke gern Tee.",
+            "en": "I like drinking tea."
+          },
+          {
+            "de": "Ich esse nicht gern Fleisch.",
+            "en": "I don't like eating meat."
+          },
+          {
+            "de": "Magst du Kaffee?",
+            "en": "Do you like coffee?"
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> পছন্দ বোঝাতে ক্রিয়ার পর <em>gern</em> ব্যবহার করুন: <em>Ich esse gern Pizza.</em> অপছন্দ বোঝাতে <em>nicht</em> যোগ করুন: <em>Ich esse nicht gern Fisch.</em>",
+    "tipEN": "<strong>Tip:</strong> Use <em>gern</em> after a verb to say you like doing something: <em>Ich esse gern Pizza.</em> To say you dislike it, add <em>nicht</em>: <em>Ich esse nicht gern Fisch.</em>"
+  },
+  {
+    "id": 5,
+    "icon": "ti-shopping-cart",
+    "name": "Shopping",
+    "sub": "Einkaufen — Shopping for everyday things",
+    "groups": [
+      {
+        "title": "In a shop",
+        "phrases": [
+          {
+            "de": "Kann ich Ihnen helfen?",
+            "en": "Can I help you?"
+          },
+          {
+            "de": "Ich suche ...",
+            "en": "I am looking for ..."
+          },
+          {
+            "de": "Haben Sie ... ?",
+            "en": "Do you have ... ?"
+          },
+          {
+            "de": "Wo finde ich ... ?",
+            "en": "Where can I find ... ?"
+          },
+          {
+            "de": "Was kostet das?",
+            "en": "How much does that cost?"
+          },
+          {
+            "de": "Das ist zu teuer.",
+            "en": "That is too expensive."
+          },
+          {
+            "de": "Das ist günstig.",
+            "en": "That is cheap / affordable."
+          },
+          {
+            "de": "Ich nehme das.",
+            "en": "I'll take that."
+          },
+          {
+            "de": "Ich kaufe das nicht.",
+            "en": "I'm not buying that."
+          }
+        ]
+      },
+      {
+        "title": "Paying",
+        "phrases": [
+          {
+            "de": "Wie viel macht das?",
+            "en": "How much is that in total?"
+          },
+          {
+            "de": "Das macht 5 Euro.",
+            "en": "That comes to 5 euros."
+          },
+          {
+            "de": "Kann ich mit Karte zahlen?",
+            "en": "Can I pay by card?"
+          },
+          {
+            "de": "Ich zahle bar.",
+            "en": "I'm paying cash."
+          },
+          {
+            "de": "Haben Sie Kleingeld?",
+            "en": "Do you have change?"
+          },
+          {
+            "de": "Einen Kassenbon, bitte.",
+            "en": "A receipt, please."
+          }
+        ]
+      },
+      {
+        "title": "Quantities & containers",
+        "phrases": [
+          {
+            "de": "ein Kilo / ein halbes Kilo",
+            "en": "one kilo / half a kilo"
+          },
+          {
+            "de": "eine Flasche / eine Dose",
+            "en": "a bottle / a can"
+          },
+          {
+            "de": "eine Packung / ein Stück",
+            "en": "a pack / a piece"
+          },
+          {
+            "de": "ein Liter Milch",
+            "en": "one liter of milk"
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> ভদ্রভাবে কিছু চাইতে <em>Ich hätte gern ...</em> ব্যবহার করুন। <em>Ich will ...</em> (আমি চাই) এর চেয়ে এটি বেশি মার্জিত।",
+    "tipEN": "<strong>Tip:</strong> When asking for things, use <em>Ich hätte gern ...</em> (I would like ...) — it sounds more polite than just <em>Ich will ...</em> (I want ...)."
+  },
+  {
+    "id": 6,
+    "icon": "ti-home",
+    "name": "House & Apartment",
+    "sub": "Wohnung — Describing where you live",
+    "groups": [
+      {
+        "title": "Types of housing",
+        "phrases": [
+          {
+            "de": "die Wohnung / das Haus",
+            "en": "the apartment / the house"
+          },
+          {
+            "de": "das Zimmer",
+            "en": "the room"
+          },
+          {
+            "de": "das Einfamilienhaus / das Mehrfamilienhaus",
+            "en": "detached house / apartment building"
+          },
+          {
+            "de": "die Wohngemeinschaft (WG)",
+            "en": "shared apartment (flatshare)"
+          }
+        ]
+      },
+      {
+        "title": "Rooms",
+        "phrases": [
+          {
+            "de": "das Wohnzimmer",
+            "en": "living room"
+          },
+          {
+            "de": "das Schlafzimmer",
+            "en": "bedroom"
+          },
+          {
+            "de": "die Küche",
+            "en": "kitchen"
+          },
+          {
+            "de": "das Badezimmer / das Bad",
+            "en": "bathroom"
+          },
+          {
+            "de": "die Toilette / das WC",
+            "en": "toilet"
+          },
+          {
+            "de": "der Balkon / der Garten",
+            "en": "balcony / garden"
+          },
+          {
+            "de": "der Flur / der Keller",
+            "en": "hallway / basement"
+          }
+        ]
+      },
+      {
+        "title": "Furniture & things",
+        "phrases": [
+          {
+            "de": "das Bett / der Schrank",
+            "en": "bed / wardrobe"
+          },
+          {
+            "de": "der Tisch / der Stuhl",
+            "en": "table / chair"
+          },
+          {
+            "de": "das Sofa / der Sessel",
+            "en": "sofa / armchair"
+          },
+          {
+            "de": "der Herd / der Kühlschrank",
+            "en": "stove / fridge"
+          },
+          {
+            "de": "die Waschmaschine",
+            "en": "washing machine"
+          }
+        ]
+      },
+      {
+        "title": "Describing your home",
+        "phrases": [
+          {
+            "de": "Ich wohne in einer Wohnung.",
+            "en": "I live in an apartment."
+          },
+          {
+            "de": "Die Wohnung hat drei Zimmer.",
+            "en": "The apartment has three rooms."
+          },
+          {
+            "de": "Die Wohnung ist groß / klein.",
+            "en": "The apartment is big / small."
+          },
+          {
+            "de": "Die Miete kostet 500 Euro pro Monat.",
+            "en": "The rent costs 500 euros per month."
+          },
+          {
+            "de": "Ich wohne im zweiten Stock.",
+            "en": "I live on the second floor."
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> জার্মানিতে গ্রাউন্ড ফ্লোর হল <em>Erdgeschoss (EG)</em>, তারপর <em>1. Obergeschoss (1. OG)</em> ইত্যাদি — ইংরেজির চেয়ে এক তলা বেশি!",
+    "tipEN": "<strong>Tip:</strong> In German, the ground floor is <em>Erdgeschoss (EG)</em>, then first floor = <em>1. Obergeschoss (1. OG)</em>, etc. — one floor higher than in English!"
+  },
+  {
+    "id": 7,
+    "icon": "ti-briefcase",
+    "name": "Work & Study",
+    "sub": "Beruf und Studium — Jobs and school",
+    "groups": [
+      {
+        "title": "Jobs & professions",
+        "phrases": [
+          {
+            "de": "Was sind Sie von Beruf?",
+            "en": "What is your profession?"
+          },
+          {
+            "de": "Ich bin Lehrer / Lehrerin.",
+            "en": "I am a teacher (m/f)."
+          },
+          {
+            "de": "Ich bin Arzt / Ärztin.",
+            "en": "I am a doctor (m/f)."
+          },
+          {
+            "de": "Ich bin Student / Studentin.",
+            "en": "I am a student (m/f)."
+          },
+          {
+            "de": "Ich arbeite als Designer.",
+            "en": "I work as a designer."
+          },
+          {
+            "de": "Ich bin freiberuflich tätig.",
+            "en": "I work freelance."
+          },
+          {
+            "de": "Ich bin zurzeit arbeitslos.",
+            "en": "I am currently unemployed."
+          }
+        ]
+      },
+      {
+        "title": "Workplace",
+        "phrases": [
+          {
+            "de": "Wo arbeiten Sie?",
+            "en": "Where do you work?"
+          },
+          {
+            "de": "Ich arbeite bei einer Firma.",
+            "en": "I work at a company."
+          },
+          {
+            "de": "Ich arbeite im Büro / von zu Hause.",
+            "en": "I work in the office / from home."
+          },
+          {
+            "de": "Mein Arbeitsplatz ist in Dhaka.",
+            "en": "My workplace is in Dhaka."
+          },
+          {
+            "de": "Ich habe eine Vollzeitstelle.",
+            "en": "I have a full-time job."
+          }
+        ]
+      },
+      {
+        "title": "Study",
+        "phrases": [
+          {
+            "de": "Ich studiere an der Universität.",
+            "en": "I study at the university."
+          },
+          {
+            "de": "Ich mache eine Ausbildung.",
+            "en": "I am doing vocational training."
+          },
+          {
+            "de": "Ich lerne für die Prüfung.",
+            "en": "I am studying for the exam."
+          },
+          {
+            "de": "Ich mache meine Hausaufgaben.",
+            "en": "I am doing my homework."
+          },
+          {
+            "de": "Das Semester beginnt im Oktober.",
+            "en": "The semester starts in October."
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> পেশার নাম পুরুষ/নারীভেদে বদলায়: <em>der Lehrer</em> (পুরুষ শিক্ষক), <em>die Lehrerin</em> (মহিলা শিক্ষক)। নারীবাচক রূপে সাধারণত শেষে <em>-in</em> যোগ হয়।",
+    "tipEN": "<strong>Tip:</strong> Job titles change for male/female: <em>der Lehrer</em> (male teacher), <em>die Lehrerin</em> (female teacher). The feminine form usually adds <em>-in</em> to the end."
+  },
+  {
+    "id": 8,
+    "icon": "ti-music",
+    "name": "Hobbies & Free Time",
+    "sub": "Freizeit — What you enjoy doing",
+    "groups": [
+      {
+        "title": "Common hobbies",
+        "phrases": [
+          {
+            "de": "Was machst du in deiner Freizeit?",
+            "en": "What do you do in your free time?"
+          },
+          {
+            "de": "Ich singe gern.",
+            "en": "I like singing."
+          },
+          {
+            "de": "Ich höre Musik.",
+            "en": "I listen to music."
+          },
+          {
+            "de": "Ich spiele Gitarre / Klavier.",
+            "en": "I play guitar / piano."
+          },
+          {
+            "de": "Ich lese gern Bücher.",
+            "en": "I like reading books."
+          },
+          {
+            "de": "Ich sehe gern fern.",
+            "en": "I like watching TV."
+          },
+          {
+            "de": "Ich koche gern.",
+            "en": "I like cooking."
+          },
+          {
+            "de": "Ich treibe Sport.",
+            "en": "I do sports."
+          },
+          {
+            "de": "Ich gehe spazieren.",
+            "en": "I go for a walk."
+          }
+        ]
+      },
+      {
+        "title": "Sports & activities",
+        "phrases": [
+          {
+            "de": "Ich spiele Fußball / Cricket.",
+            "en": "I play football / cricket."
+          },
+          {
+            "de": "Ich schwimme gern.",
+            "en": "I like swimming."
+          },
+          {
+            "de": "Ich gehe ins Fitnessstudio.",
+            "en": "I go to the gym."
+          },
+          {
+            "de": "Ich mache Yoga.",
+            "en": "I do yoga."
+          },
+          {
+            "de": "Ich fahre Fahrrad.",
+            "en": "I ride a bike."
+          }
+        ]
+      },
+      {
+        "title": "Entertainment",
+        "phrases": [
+          {
+            "de": "Ich gehe ins Kino.",
+            "en": "I go to the cinema."
+          },
+          {
+            "de": "Ich gehe ins Konzert.",
+            "en": "I go to a concert."
+          },
+          {
+            "de": "Ich fotografiere gern.",
+            "en": "I like taking photos."
+          },
+          {
+            "de": "Ich reise gern.",
+            "en": "I like travelling."
+          },
+          {
+            "de": "Ich spiele Computerspiele.",
+            "en": "I play video games."
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> <em>gern</em> + ক্রিয়া দিয়ে পছন্দ বোঝান: <em>Ich singe gern</em> = আমি গান গাইতে ভালোবাসি। A1 স্তরে <em>Ich mag singen</em> এর চেয়ে এটি অনেক বেশি স্বাভাবিক।",
+    "tipEN": "<strong>Tip:</strong> Use <em>gern</em> + verb to express what you enjoy: <em>Ich singe gern</em> = I enjoy singing. This is much more natural than <em>Ich mag singen</em> at the A1 level."
+  },
+  {
+    "id": 9,
+    "icon": "ti-bus",
+    "name": "Transportation",
+    "sub": "Verkehrsmittel — Getting around",
+    "groups": [
+      {
+        "title": "Types of transport",
+        "phrases": [
+          {
+            "de": "das Auto / das Fahrrad",
+            "en": "car / bicycle"
+          },
+          {
+            "de": "der Bus / die Bahn / die U-Bahn",
+            "en": "bus / train / subway"
+          },
+          {
+            "de": "die Straßenbahn / das Taxi",
+            "en": "tram / taxi"
+          },
+          {
+            "de": "das Flugzeug / das Schiff",
+            "en": "airplane / ship"
+          },
+          {
+            "de": "zu Fuß gehen",
+            "en": "to go on foot"
+          }
+        ]
+      },
+      {
+        "title": "At the station / stop",
+        "phrases": [
+          {
+            "de": "Wo ist der Bahnhof / die Bushaltestelle?",
+            "en": "Where is the train station / bus stop?"
+          },
+          {
+            "de": "Wann fährt der nächste Bus?",
+            "en": "When does the next bus leave?"
+          },
+          {
+            "de": "Eine Fahrkarte nach Berlin, bitte.",
+            "en": "One ticket to Berlin, please."
+          },
+          {
+            "de": "Einfach oder hin und zurück?",
+            "en": "One way or round trip?"
+          },
+          {
+            "de": "Welcher Bahnsteig?",
+            "en": "Which platform?"
+          },
+          {
+            "de": "Der Zug hat Verspätung.",
+            "en": "The train is delayed."
+          }
+        ]
+      },
+      {
+        "title": "How do you get there?",
+        "phrases": [
+          {
+            "de": "Wie kommst du zur Arbeit?",
+            "en": "How do you get to work?"
+          },
+          {
+            "de": "Ich fahre mit dem Bus.",
+            "en": "I go by bus."
+          },
+          {
+            "de": "Ich nehme die U-Bahn.",
+            "en": "I take the subway."
+          },
+          {
+            "de": "Ich fahre mit dem Auto.",
+            "en": "I go by car."
+          },
+          {
+            "de": "Ich gehe zu Fuß.",
+            "en": "I walk."
+          },
+          {
+            "de": "Wie lange dauert die Fahrt?",
+            "en": "How long does the journey take?"
+          },
+          {
+            "de": "Die Fahrt dauert 20 Minuten.",
+            "en": "The journey takes 20 minutes."
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> <em>mit dem</em> + যানবাহন ব্যবহার করুন: <em>mit dem Bus, mit dem Zug, mit dem Fahrrad</em>। ব্যতিক্রম: <em>zu Fuß</em> (পায়ে হেঁটে) — কোনো article নেই!",
+    "tipEN": "<strong>Tip:</strong> Use <em>mit dem</em> + transport: <em>mit dem Bus, mit dem Zug, mit dem Fahrrad</em>. Exception: <em>zu Fuß</em> (on foot) — no article!"
+  },
+  {
+    "id": 10,
+    "icon": "ti-map-pin",
+    "name": "City & Directions",
+    "sub": "Stadt und Wegbeschreibung — Finding your way",
+    "groups": [
+      {
+        "title": "Places in the city",
+        "phrases": [
+          {
+            "de": "die Bank / die Post",
+            "en": "bank / post office"
+          },
+          {
+            "de": "das Krankenhaus / die Apotheke",
+            "en": "hospital / pharmacy"
+          },
+          {
+            "de": "der Supermarkt / das Kaufhaus",
+            "en": "supermarket / department store"
+          },
+          {
+            "de": "das Restaurant / das Café",
+            "en": "restaurant / café"
+          },
+          {
+            "de": "die Schule / die Universität",
+            "en": "school / university"
+          },
+          {
+            "de": "der Park / das Museum",
+            "en": "park / museum"
+          },
+          {
+            "de": "das Rathaus / die Kirche",
+            "en": "city hall / church"
+          }
+        ]
+      },
+      {
+        "title": "Asking for directions",
+        "phrases": [
+          {
+            "de": "Entschuldigung, wie komme ich zum Bahnhof?",
+            "en": "Excuse me, how do I get to the station?"
+          },
+          {
+            "de": "Wo ist die nächste Apotheke?",
+            "en": "Where is the nearest pharmacy?"
+          },
+          {
+            "de": "Ist es weit?",
+            "en": "Is it far?"
+          },
+          {
+            "de": "Wie weit ist es?",
+            "en": "How far is it?"
+          },
+          {
+            "de": "Es ist nicht weit.",
+            "en": "It is not far."
+          },
+          {
+            "de": "Es sind etwa 10 Minuten zu Fuß.",
+            "en": "It's about 10 minutes on foot."
+          }
+        ]
+      },
+      {
+        "title": "Giving directions",
+        "phrases": [
+          {
+            "de": "Gehen Sie geradeaus.",
+            "en": "Go straight ahead."
+          },
+          {
+            "de": "Biegen Sie links / rechts ab.",
+            "en": "Turn left / right."
+          },
+          {
+            "de": "Nehmen Sie die erste / zweite Straße.",
+            "en": "Take the first / second street."
+          },
+          {
+            "de": "Die Bank ist auf der linken / rechten Seite.",
+            "en": "The bank is on the left / right side."
+          },
+          {
+            "de": "Gegenüber dem Supermarkt.",
+            "en": "Opposite the supermarket."
+          },
+          {
+            "de": "Neben der Schule.",
+            "en": "Next to the school."
+          },
+          {
+            "de": "Zwischen dem Café und dem Park.",
+            "en": "Between the café and the park."
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> স্থান-নির্দেশক preposition: <em>neben</em> (পাশে), <em>gegenüber</em> (বিপরীতে), <em>zwischen</em> (মাঝে), <em>vor</em> (সামনে), <em>hinter</em> (পেছনে)। এগুলোর পর Dative case ব্যবহার হয়।",
+    "tipEN": "<strong>Tip:</strong> Key prepositions of place: <em>neben</em> (next to), <em>gegenüber</em> (opposite), <em>zwischen</em> (between), <em>vor</em> (in front of), <em>hinter</em> (behind). These use Dative case after them."
+  },
+  {
+    "id": 11,
+    "icon": "ti-heart-rate-monitor",
+    "name": "Health",
+    "sub": "Gesundheit — Talking about how you feel",
+    "groups": [
+      {
+        "title": "How are you feeling?",
+        "phrases": [
+          {
+            "de": "Wie geht es Ihnen? / Wie geht es dir?",
+            "en": "How are you? (formal / informal)"
+          },
+          {
+            "de": "Es geht mir gut.",
+            "en": "I am doing well."
+          },
+          {
+            "de": "Es geht mir nicht gut.",
+            "en": "I am not doing well."
+          },
+          {
+            "de": "Ich bin krank.",
+            "en": "I am sick."
+          },
+          {
+            "de": "Ich fühle mich schlecht.",
+            "en": "I feel bad."
+          },
+          {
+            "de": "Ich bin müde.",
+            "en": "I am tired."
+          }
+        ]
+      },
+      {
+        "title": "Symptoms & body parts",
+        "phrases": [
+          {
+            "de": "Ich habe Kopfschmerzen.",
+            "en": "I have a headache."
+          },
+          {
+            "de": "Ich habe Bauchschmerzen.",
+            "en": "I have a stomachache."
+          },
+          {
+            "de": "Ich habe Halsschmerzen.",
+            "en": "I have a sore throat."
+          },
+          {
+            "de": "Ich habe Fieber.",
+            "en": "I have a fever."
+          },
+          {
+            "de": "Ich habe Husten / Schnupfen.",
+            "en": "I have a cough / a cold."
+          },
+          {
+            "de": "Mein Arm / Bein tut weh.",
+            "en": "My arm / leg hurts."
+          },
+          {
+            "de": "Mir ist schlecht.",
+            "en": "I feel nauseous."
+          }
+        ]
+      },
+      {
+        "title": "At the doctor's",
+        "phrases": [
+          {
+            "de": "Ich brauche einen Arzt.",
+            "en": "I need a doctor."
+          },
+          {
+            "de": "Ich möchte einen Termin.",
+            "en": "I would like an appointment."
+          },
+          {
+            "de": "Wo tut es weh?",
+            "en": "Where does it hurt?"
+          },
+          {
+            "de": "Seit wann haben Sie die Schmerzen?",
+            "en": "Since when have you had the pain?"
+          },
+          {
+            "de": "Ich brauche ein Rezept.",
+            "en": "I need a prescription."
+          },
+          {
+            "de": "Nehmen Sie diese Tabletten.",
+            "en": "Take these tablets."
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> ব্যথা বোঝাতে <em>... tut weh</em> ব্যবহার করুন: <em>Mein Kopf tut weh</em>। অথবা <em>Ich habe ...-schmerzen</em>: Kopfschmerzen, Bauchschmerzen, Rückenschmerzen (পিঠে ব্যথা)।",
+    "tipEN": "<strong>Tip:</strong> To say something hurts use <em>... tut weh</em>: <em>Mein Kopf tut weh</em>. Or use <em>Ich habe ... -schmerzen</em>: Kopfschmerzen, Bauchschmerzen, Rückenschmerzen (back pain)."
+  },
+  {
+    "id": 12,
+    "icon": "ti-shirt",
+    "name": "Clothes",
+    "sub": "Kleidung — Talking about what you wear",
+    "groups": [
+      {
+        "title": "Clothing items",
+        "phrases": [
+          {
+            "de": "das Hemd / die Bluse",
+            "en": "shirt / blouse"
+          },
+          {
+            "de": "die Hose / der Rock",
+            "en": "trousers / skirt"
+          },
+          {
+            "de": "das Kleid / der Anzug",
+            "en": "dress / suit"
+          },
+          {
+            "de": "die Jacke / der Mantel",
+            "en": "jacket / coat"
+          },
+          {
+            "de": "der Pullover / das T-Shirt",
+            "en": "sweater / T-shirt"
+          },
+          {
+            "de": "die Schuhe / die Stiefel",
+            "en": "shoes / boots"
+          },
+          {
+            "de": "die Socken / die Strumpfhose",
+            "en": "socks / tights"
+          },
+          {
+            "de": "die Mütze / der Hut",
+            "en": "beanie / hat"
+          }
+        ]
+      },
+      {
+        "title": "Colors & describing clothes",
+        "phrases": [
+          {
+            "de": "rot / blau / grün / gelb",
+            "en": "red / blue / green / yellow"
+          },
+          {
+            "de": "schwarz / weiß / grau / braun",
+            "en": "black / white / grey / brown"
+          },
+          {
+            "de": "Das ist zu groß / zu klein.",
+            "en": "That is too big / too small."
+          },
+          {
+            "de": "Haben Sie das in Größe M?",
+            "en": "Do you have that in size M?"
+          },
+          {
+            "de": "Das passt gut.",
+            "en": "That fits well."
+          },
+          {
+            "de": "Das steht Ihnen gut.",
+            "en": "That suits you."
+          }
+        ]
+      },
+      {
+        "title": "Shopping for clothes",
+        "phrases": [
+          {
+            "de": "Ich suche ein T-Shirt.",
+            "en": "I am looking for a T-shirt."
+          },
+          {
+            "de": "Kann ich das anprobieren?",
+            "en": "Can I try that on?"
+          },
+          {
+            "de": "Wo ist die Umkleidekabine?",
+            "en": "Where is the changing room?"
+          },
+          {
+            "de": "Das gefällt mir.",
+            "en": "I like that."
+          },
+          {
+            "de": "Das gefällt mir nicht.",
+            "en": "I don't like that."
+          },
+          {
+            "de": "Ich kaufe das.",
+            "en": "I'll buy it."
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> <em>Das gefällt mir</em> = এটা আমার পছন্দ (আক্ষরিক: 'এটা আমাকে খুশি করে')। এটাই পছন্দ প্রকাশের মানক জার্মান পদ্ধতি।",
+    "tipEN": "<strong>Tip:</strong> <em>Das gefällt mir</em> = I like it (literally: 'it pleases me'). This is the standard German way to express liking a thing. It's different from <em>Ich mag das</em>, which also works but is more direct."
+  },
+  {
+    "id": 13,
+    "icon": "ti-cloud",
+    "name": "Weather & Seasons",
+    "sub": "Wetter und Jahreszeiten — Talking about the weather",
+    "groups": [
+      {
+        "title": "Asking about weather",
+        "phrases": [
+          {
+            "de": "Wie ist das Wetter heute?",
+            "en": "What is the weather like today?"
+          },
+          {
+            "de": "Wie wird das Wetter morgen?",
+            "en": "What will the weather be like tomorrow?"
+          },
+          {
+            "de": "Wie viel Grad hat es?",
+            "en": "What is the temperature?"
+          },
+          {
+            "de": "Es hat 30 Grad.",
+            "en": "It is 30 degrees."
+          }
+        ]
+      },
+      {
+        "title": "Describing weather",
+        "phrases": [
+          {
+            "de": "Es ist sonnig / bewölkt.",
+            "en": "It is sunny / cloudy."
+          },
+          {
+            "de": "Es regnet. / Es schneit.",
+            "en": "It is raining. / It is snowing."
+          },
+          {
+            "de": "Es ist warm / kalt / heiß.",
+            "en": "It is warm / cold / hot."
+          },
+          {
+            "de": "Es ist windig / stürmisch.",
+            "en": "It is windy / stormy."
+          },
+          {
+            "de": "Es ist neblig.",
+            "en": "It is foggy."
+          },
+          {
+            "de": "Das Wetter ist schön / schlecht.",
+            "en": "The weather is nice / bad."
+          }
+        ]
+      },
+      {
+        "title": "The four seasons",
+        "phrases": [
+          {
+            "de": "der Frühling",
+            "en": "spring"
+          },
+          {
+            "de": "der Sommer",
+            "en": "summer"
+          },
+          {
+            "de": "der Herbst",
+            "en": "autumn"
+          },
+          {
+            "de": "der Winter",
+            "en": "winter"
+          },
+          {
+            "de": "Im Sommer ist es heiß.",
+            "en": "In summer it is hot."
+          },
+          {
+            "de": "Im Winter ist es kalt.",
+            "en": "In winter it is cold."
+          },
+          {
+            "de": "Im Frühling regnet es oft.",
+            "en": "In spring it often rains."
+          },
+          {
+            "de": "Im Herbst fallen die Blätter.",
+            "en": "In autumn the leaves fall."
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> জার্মানে আবহাওয়া বলতে <em>Es ist ...</em> ব্যবহার হয়: <em>Es ist kalt, es regnet</em>। 'বৃষ্টি হচ্ছে' = <em>Es regnet</em> — কোনো -ing রূপের দরকার নেই!",
+    "tipEN": "<strong>Tip:</strong> In German, <em>Es ist ...</em> is used to describe the weather: <em>Es ist kalt, es regnet</em>. Note that 'it is raining' in German is <em>Es regnet</em> (literally: it rains) — no '-ing' form needed."
+  },
+  {
+    "id": 14,
+    "icon": "ti-calendar",
+    "name": "Time & Dates",
+    "sub": "Uhrzeit und Datum — Telling the time and date",
+    "groups": [
+      {
+        "title": "Telling the time",
+        "phrases": [
+          {
+            "de": "Wie spät ist es?",
+            "en": "What time is it?"
+          },
+          {
+            "de": "Wie viel Uhr ist es?",
+            "en": "What time is it? (also common)"
+          },
+          {
+            "de": "Es ist 8 Uhr.",
+            "en": "It is 8 o'clock."
+          },
+          {
+            "de": "Es ist halb neun.",
+            "en": "It is half past eight (8:30)."
+          },
+          {
+            "de": "Es ist Viertel nach zehn.",
+            "en": "It is quarter past ten."
+          },
+          {
+            "de": "Es ist Viertel vor drei.",
+            "en": "It is quarter to three."
+          },
+          {
+            "de": "Um wie viel Uhr...?",
+            "en": "At what time...?"
+          }
+        ]
+      },
+      {
+        "title": "Days of the week",
+        "phrases": [
+          {
+            "de": "Montag / Dienstag / Mittwoch",
+            "en": "Monday / Tuesday / Wednesday"
+          },
+          {
+            "de": "Donnerstag / Freitag",
+            "en": "Thursday / Friday"
+          },
+          {
+            "de": "Samstag / Sonntag",
+            "en": "Saturday / Sunday"
+          },
+          {
+            "de": "heute / morgen / gestern",
+            "en": "today / tomorrow / yesterday"
+          },
+          {
+            "de": "am Montag / am Freitag",
+            "en": "on Monday / on Friday"
+          }
+        ]
+      },
+      {
+        "title": "Months & dates",
+        "phrases": [
+          {
+            "de": "Januar / Februar / März",
+            "en": "January / February / March"
+          },
+          {
+            "de": "April / Mai / Juni",
+            "en": "April / May / June"
+          },
+          {
+            "de": "Juli / August / September",
+            "en": "July / August / September"
+          },
+          {
+            "de": "Oktober / November / Dezember",
+            "en": "October / November / December"
+          },
+          {
+            "de": "Welches Datum ist heute?",
+            "en": "What is today's date?"
+          },
+          {
+            "de": "Heute ist der 30. Juni 2026.",
+            "en": "Today is June 30th, 2026."
+          },
+          {
+            "de": "Ich bin am 5. März geboren.",
+            "en": "I was born on the 5th of March."
+          }
+        ]
+      },
+      {
+        "title": "Useful time expressions",
+        "phrases": [
+          {
+            "de": "morgens / mittags / abends / nachts",
+            "en": "in the morning / at noon / in the evening / at night"
+          },
+          {
+            "de": "früh / spät",
+            "en": "early / late"
+          },
+          {
+            "de": "pünktlich",
+            "en": "on time"
+          },
+          {
+            "de": "in einer Stunde",
+            "en": "in one hour"
+          },
+          {
+            "de": "vor zwei Tagen",
+            "en": "two days ago"
+          },
+          {
+            "de": "nächste Woche / letztes Jahr",
+            "en": "next week / last year"
+          }
+        ]
+      }
+    ],
+    "tip": "<strong>টিপ:</strong> জার্মান ঘড়ির সময় কঠিন হতে পারে! <em>Halb neun</em> = নয়টার আগে অর্ধেক = ৮:৩০ (৯:৩০ নয়!)। ভাবুন 'নয়টার পথে অর্ধেক'। আনুষ্ঠানিক সময়ের জন্য <em>8:30 Uhr</em> সবসময় নিরাপদ।",
+    "tipEN": "<strong>Tip:</strong> German clock times can be tricky! <em>Halb neun</em> = half BEFORE nine = 8:30 (not 9:30!). Think of it as 'half-way to nine'. For formal/digital time, <em>8:30 Uhr</em> is always safe."
+  }
+]
