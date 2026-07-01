@@ -1,6 +1,7 @@
 'use client';
 
 import { useApp } from '@/lib/app-data';
+import T from './T';
 
 export default function TopicGrid() {
   const { topics, selectedTopic, selectTopic } = useApp();
@@ -8,21 +9,21 @@ export default function TopicGrid() {
   return (
     <>
       <div className="text-[11px] font-semibold tracking-widest uppercase text-text-muted mb-2.5 pl-0.5">
-        Choose a topic
+        <T k="Choose a topic" />
       </div>
-      <div className="grid gap-2 mb-7"
-        style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(130px, 1fr))' }}>
-        {topics.map(t => {
+      <div className="grid gap-2 mb-7 grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-7">
+        {topics.map((t, i) => {
           const active = selectedTopic?.id === t.id;
           return (
             <button
               key={t.id}
               onClick={() => selectTopic(t)}
-              className={`topic-btn group relative flex flex-col items-center gap-1.5 p-3.5 px-2.5 pb-3 rounded-[var(--radius)] cursor-pointer text-center transition-all duration-150 overflow-hidden ${
+              className={`topic-btn animate-fade-in-up group relative flex flex-col items-center gap-1.5 p-3.5 px-2 pb-3 rounded-[var(--radius)] cursor-pointer text-center overflow-hidden ${
                 active
                   ? 'bg-accent-light border-accent shadow-[0_0_0_3px_rgba(45,106,79,0.1)]'
-                  : 'bg-surface border-border shadow-sm hover:border-border-strong hover:-translate-y-0.5 hover:shadow-md'
+                  : 'bg-surface border-border shadow-sm hover:border-border-strong'
               } border`}
+              style={{ animationDelay: `${i * 50}ms` }}
             >
               <span className="text-[9.5px] font-semibold tracking-wider text-text-muted">
                 {String(t.id).padStart(2, '0')}

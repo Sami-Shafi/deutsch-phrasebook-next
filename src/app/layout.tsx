@@ -1,8 +1,12 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
+import Footer from "@/components/Footer";
 
 export const viewport: Viewport = {
-  themeColor: "#2d6a4f",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#2d6a4f" },
+    { media: "(prefers-color-scheme: dark)", color: "#1a1a2e" },
+  ],
 };
 
 export const metadata: Metadata = {
@@ -16,8 +20,8 @@ export const metadata: Metadata = {
     type: "website",
   },
   icons: [
-    { rel: "icon", sizes: "192x192", url: "/icon-192.png" },
-    { rel: "apple-touch-icon", url: "/icon-192.png" },
+    { rel: "icon", type: "image/svg+xml", url: "/favicon.svg" },
+    { rel: "apple-touch-icon", url: "/icon-192.svg" },
   ],
 };
 
@@ -27,7 +31,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="h-full">
+    <html lang="en" className="h-full" suppressHydrationWarning>
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
@@ -37,9 +41,26 @@ export default function RootLayout({
         />
         <link rel="manifest" href="/manifest.json" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              (function() {
+                try {
+                  var theme = localStorage.getItem('theme');
+                  if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                    document.documentElement.classList.add('dark');
+                  }
+                } catch(e) {}
+              })();
+            `,
+          }}
+        />
       </head>
-      <body className="min-h-full">
-        {children}
+      <body className="min-h-full flex flex-col">
+        <main className="flex-1">
+          {children}
+        </main>
+        <Footer />
         <script src="/api/register-sw" defer />
       </body>
     </html>

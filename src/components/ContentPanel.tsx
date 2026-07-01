@@ -10,8 +10,8 @@ export default function ContentPanel() {
   if (!selectedTopic) return null;
 
   return (
-    <div className="bg-surface border border-border rounded-[var(--radius-lg)] overflow-hidden shadow-sm">
-      <div className="p-6 pb-5 border-b border-border bg-gradient-to-br from-white to-[#f7faf8] flex items-start gap-3.5">
+    <div className="bg-surface border border-border rounded-[var(--radius-lg)] overflow-hidden shadow-sm animate-scale-in">
+      <div className="p-5 sm:p-6 pb-5 border-b border-border bg-gradient-to-br from-[var(--surface)] to-[var(--surface-2)] flex items-start gap-3.5">
         <div className="w-11 h-11 rounded-xl bg-accent-light border border-accent-mid flex items-center justify-center flex-shrink-0">
           <i className={`ti ${selectedTopic.icon} text-[22px] text-accent`} />
         </div>
@@ -20,9 +20,11 @@ export default function ContentPanel() {
           <div className="text-xs text-text-secondary">{selectedTopic.sub}</div>
         </div>
       </div>
-      <div className="p-6">
+      <div className="p-5 sm:p-6">
         {selectedTopic.groups.map((group, i) => (
-          <PhraseGroup key={i} group={group} />
+          <div key={i} style={{ animationDelay: `${i * 60}ms` }} className="animate-fade-in-up">
+            <PhraseGroup group={group} />
+          </div>
         ))}
         <TipBox />
       </div>

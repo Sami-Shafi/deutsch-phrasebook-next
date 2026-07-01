@@ -3,11 +3,11 @@
 import { useApp } from '@/lib/app-data';
 
 export default function LanguageToggle() {
-  const { isBN, toggleLang } = useApp();
+  const { isBN, toggleLang, t } = useApp();
 
   return (
-    <div className={`lang-toggle ${isBN ? 'bn-mode' : 'en-mode'}`}>
-      <span className="text-xs font-medium text-text-secondary">Translation:</span>
+    <div className={`lang-toggle flex items-center gap-1.5 ${isBN ? 'bn-mode' : 'en-mode'}`}>
+      <span className="text-xs font-medium text-text-secondary">{t('Translation:')}</span>
       <div className="flex items-center gap-1 text-xs font-medium">
         <span className={isBN ? 'text-text-secondary' : 'text-accent font-semibold'}>EN</span>
         <span style={{ color: 'var(--color-border-strong)' }}>·</span>

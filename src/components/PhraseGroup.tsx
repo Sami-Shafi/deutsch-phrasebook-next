@@ -23,7 +23,7 @@ export default function PhraseGroup({ group }: PhraseGroupProps) {
       <table className="w-full border-collapse">
         <tbody>
           {group.phrases.map((phrase, i) => (
-            <PhraseRow key={i} phrase={phrase} />
+            <PhraseRow key={i} phrase={phrase} index={i} />
           ))}
         </tbody>
       </table>

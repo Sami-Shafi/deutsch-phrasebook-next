@@ -3,6 +3,18 @@
 import { createContext, useContext, useState, useCallback, type ReactNode } from 'react';
 import type { Topic, TranslationMap, GroupTitleMap } from '@/types';
 
+const uiDict: Record<string, string> = {
+  'Translation:': 'অনুবাদ:',
+  'Choose a topic': 'একটি টপিক নির্বাচন করুন',
+  'Wähle ein Thema': 'একটি টপিক নির্বাচন করুন',
+  '14 essential topics for the Goethe A1 exam — real phrases, grammar tips, and natural fluency practice.':
+    'Goethe A1 exam এর জন্য ১৪টি প্রয়োজনীয় topic — real phrases, grammar tips এবং natural fluency practice.',
+  'Select a topic above to explore phrases and vocabulary':
+    'উপরে একটি topic নির্বাচন করে phrases এবং vocabulary দেখুন',
+  topics: 'topic',
+  phrases: 'phrase',
+};
+
 interface AppState {
   isBN: boolean;
   selectedTopic: Topic | null;
@@ -15,6 +27,7 @@ interface AppContextType extends AppState {
   topics: Topic[];
   translations: TranslationMap;
   groupTitles: GroupTitleMap;
+  t: (en: string) => string;
 }
 
 const AppContext = createContext<AppContextType | null>(null);
@@ -41,8 +54,12 @@ export function AppProvider({
     setState(prev => ({ ...prev, selectedTopic: topic }));
   }, []);
 
+  const t = useCallback((en: string): string => {
+    return state.isBN ? (uiDict[en] || en) : en;
+  }, [state.isBN]);
+
   return (
-    <AppContext.Provider value={{ ...state, toggleLang, selectTopic, topics, setTopics, translations: initialTranslations, groupTitles: initialGroupTitles }}>
+    <AppContext.Provider value={{ ...state, toggleLang, selectTopic, topics, setTopics, translations: initialTranslations, groupTitles: initialGroupTitles, t }}>
       {children}
     </AppContext.Provider>
   );

@@ -1,5 +1,5 @@
 import { requireAuth } from '@/lib/admin-auth';
-import AdminNav from './AdminNav';
+import AdminNav from '../AdminNav';
 
 export default async function AdminLayout({
   children,

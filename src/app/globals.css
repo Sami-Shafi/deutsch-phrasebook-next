@@ -1,20 +1,52 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Bengali:wght@400;500;600&display=swap');
 @import "tailwindcss";
 
+:root {
+  --bg: #f6f5f2;
+  --surface: #ffffff;
+  --surface-2: #f0efe9;
+  --border: #e4e2da;
+  --border-strong: #ccc9be;
+  --text-primary: #1a1917;
+  --text-secondary: #6b6860;
+  --text-muted: #a09e96;
+  --accent: #2d6a4f;
+  --accent-light: #e8f4ee;
+  --accent-mid: #b7ddc9;
+  --accent-text: #1a4731;
+  --de-bg: #f9f8f5;
+}
+
+.dark {
+  --bg: #111118;
+  --surface: #1a1a2e;
+  --surface-2: #22223a;
+  --border: #2a2a44;
+  --border-strong: #3a3a5a;
+  --text-primary: #e4e4e7;
+  --text-secondary: #a1a1aa;
+  --text-muted: #71717a;
+  --accent: #4ade80;
+  --accent-light: #0a2e1a;
+  --accent-mid: #1a4a2e;
+  --accent-text: #86efac;
+  --de-bg: #16162a;
+}
+
 @theme inline {
-  --color-bg: #f6f5f2;
-  --color-surface: #ffffff;
-  --color-surface-2: #f0efe9;
-  --color-border: #e4e2da;
-  --color-border-strong: #ccc9be;
-  --color-text-primary: #1a1917;
-  --color-text-secondary: #6b6860;
-  --color-text-muted: #a09e96;
-  --color-accent: #2d6a4f;
-  --color-accent-light: #e8f4ee;
-  --color-accent-mid: #b7ddc9;
-  --color-accent-text: #1a4731;
-  --color-de-bg: #f9f8f5;
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-muted: var(--text-muted);
+  --color-accent: var(--accent);
+  --color-accent-light: var(--accent-light);
+  --color-accent-mid: var(--accent-mid);
+  --color-accent-text: var(--accent-text);
+  --color-de-bg: var(--de-bg);
   --radius: 10px;
   --radius-lg: 16px;
   --shadow-sm: 0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.04);
@@ -24,11 +56,84 @@
 
 body {
   font-family: var(--font-sans);
-  background: var(--color-bg);
-  color: var(--color-text-primary);
+  background: var(--bg);
+  color: var(--text-primary);
   min-height: 100vh;
 }
 
 .bn-text {
   font-family: 'Noto Sans Bengali', system-ui, sans-serif;
+}
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.4s ease-out;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.3s ease-out;
+}
+
+.animate-scale-in {
+  animation: scale-in 0.25s ease-out;
+}
+
+.topic-btn {
+  transition: all 0.18s ease;
+}
+
+.topic-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+}
+
+.topic-btn:active {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.phrase-row {
+  transition: background-color 0.15s ease;
+}
+
+.phrase-row:hover {
+  background-color: var(--de-bg);
+}
+
+.dark .phrase-row:hover {
+  background-color: var(--surface-2);
+}
+
+.dark-mode-toggle {
+  transition: all 0.3s ease;
+}
+
+.dark-mode-toggle:hover {
+  transform: rotate(15deg);
 }
